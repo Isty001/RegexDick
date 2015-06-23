@@ -19,7 +19,8 @@ class GetInfo
         return $name[1];
     }
 
-    public function getBday(){
+    public function getBday()
+    {
         preg_match_all('|\(.*?(19[0-9]{2}).*?\)|', $this->content, $bday);
 
         return $bday[1][1];
@@ -27,6 +28,9 @@ class GetInfo
 
     public function getText()
     {
+        preg_match_all('|</table>(.*?)</table>(.*?)<div id="toc" class="toc">|s', $this->content, $HTMLtext);
+        $cleanText = preg_replace('|<((?!p)(?!br)[^>]+)>|', "", $HTMLtext[2][0]);
 
+        return preg_replace('/<p>|<\/p>|<br>/', '\n', $cleanText);
     }
 }
