@@ -1,4 +1,7 @@
-Név: Robert C. Martin\n Született:1952\n Leírás: 
-\nRobert C. Martin (1952-ben született[1]) Bob bácsi néven ismert, amerikai szoftver konzulens és szerző. Martin professzionális szoftver fejlesztő 1970 óta és nemzetközi szoftver konzulens 1990 óta. 2001-ben életre hívott egy csoport találkozót, amely megalkotta az agilis szoftverfejlesztést az extrém programozási technikákból[2]. Továbbá kulcsfontosságú tagja a szoftver szaktudás mozgalomnak.
-\nŐ alapította az Object Mentor Inc.-et[3], azt a konzultációs céget, amely a C++, Java, OOP, tervezési minták, UML, agilis módszertanok és extrém programozás oktatására specializálta magát. 1996-tól 1999-ig ő volt a főszerkesztője a C++ Report-nak. 2002-ben írta Agilis szoftverfejlesztés: alapelvek, minták és gyakorlat, mely gyakorlati tanácsokat ad agilis csoportoknak objektumorientált tervezés és fejlesztés területén. Számos népszerű könyvet és cikket publikált a programozásról és a szoftver módszertanokról.
-\n
+Név: Robert C. Martin
+Született:1952
+Leírás:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+It has survived not only five centuries, but also
+the leap into electronic typesetting, remaining essentially unchanged.

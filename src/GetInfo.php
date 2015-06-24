@@ -26,11 +26,11 @@ class GetInfo
         return $bday[1][1];
     }
 
-    public function getText()
+    public function getTextAndReplace()
     {
         preg_match_all('|</table>(.*?)</table>(.*?)<div id="toc" class="toc">|s', $this->content, $HTMLtext);
         $cleanText = preg_replace('|<((?!p)(?!br)[^>]+)>|', "", $HTMLtext[2][0]);
 
-        return preg_replace('/<p>|<\/p>|<br>/', '\n', $cleanText);
+        return preg_replace('/<p>|<\/p>|<br>/', "\n", $cleanText);
     }
 }

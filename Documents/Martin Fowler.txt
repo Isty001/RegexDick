@@ -1,4 +1,7 @@
-Név: Martin Fowler\n Született:1963\n Leírás: 
-\nMartin Fowler (született 1963) britt származású szoftverfejlesztő, szerző és nemzetközi hírű előadó a szoftverfejlesztés területén, fő területe az objektumorientált analízis és tervezés, UML, programtervezési minták és agilis szoftverfejlesztési módszertanok, beleértve az extrém programozást is.
-\nŐ vezette be a Prezentációs modell (PM) architekturális mintát.
-\n
+Név: Martin Fowler
+Született:1963
+Leírás:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+It has survived not only five centuries, but also
+the leap into electronic typesetting, remaining essentially unchanged.

@@ -1,5 +1,7 @@
-Név: Kent Beck\n Született:1961\n Leírás: 
-\nKent Beck (1961 -) amerikai szoftverfejlesztő, az extrém programozás [1] és a tesztvezérelt fejlesztés szoftverfejlesztési módszertanok megalkotója, valamint ő használta először az agilis szoftver fejlesztés kifejezést is. Beck egyike volt az Agile Manifesto 17 eredeti aláírójának 2001-ben.[1]
-\nA University of Oregon-ra járt 1979 és 1987 között, itt szerezte a BSc és MSc fokozatait számítástudományból. [2] Úttörő volt a programtervezési minták, az újra felfedezett teszt vezérelt fejlesztés, valamint a Smalltalk kereskedelmi alkalmazásai területén. Beck népszerűsítette a CRC kártyákat Ward Cunningham-mel, továbbá Erich Gamma-val létrehozták a JUnit egységteszt keretrendszert.
-\nBeck USA-ban, Medford, Oregon-ban él és a Facebook-nál dolgozik.[3]
-\n
+Név: Kent Beck
+Született:1961
+Leírás:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+It has survived not only five centuries, but also
+the leap into electronic typesetting, remaining essentially unchanged.
