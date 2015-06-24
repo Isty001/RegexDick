@@ -1,0 +1,4 @@
+Név: Martin Fowler\n Született:1963\n Leírás: 
+\nMartin Fowler (született 1963) britt származású szoftverfejlesztő, szerző és nemzetközi hírű előadó a szoftverfejlesztés területén, fő területe az objektumorientált analízis és tervezés, UML, programtervezési minták és agilis szoftverfejlesztési módszertanok, beleértve az extrém programozást is.
+\nŐ vezette be a Prezentációs modell (PM) architekturális mintát.
+\n
